@@ -1,0 +1,16 @@
+# Proteus temporary files and backups
+*.bak
+*.tmp
+*.pdsprj.bak
+*.work
+*.workspace
+*.lock
+
+# Assembler temp files; keep original Debug.HEX in version control
+*.lst
+*.obj
+*.sdi
+
+# OS
+.DS_Store
+Thumbs.db
